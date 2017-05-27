@@ -4,6 +4,20 @@
   margin-bottom: 0;
 }
 
+.btn-primary {
+  background-color: #ffc14d;
+  border-color: #ffc14d; 
+}
+
+.btn-primary:hover {
+  background-color: #ffb833;
+  border-color: #ffb833;
+}
+
+a:hover {
+  text-decoration: none; !important
+}
+
 /*Style css */
 
 body {
